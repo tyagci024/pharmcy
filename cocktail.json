@@ -46,6 +46,52 @@
       "review": "A passion fruit and vanilla crowd-pleaser with champagne served on the side."
     },
     {
+      "name": "Cool Hibiscus Gin",
+    "image":"https://www.wineenthusiast.com/wp-content/uploads/2023/05/11_22_Pornstar_Martini_HERO_GettyImages_1416354298_1920x1280.jpg",
+      "glass": "StarBucks Glass",
+      "garnish": "Taze hibiskus çiçeği",
+      "howto": "StarBucks'tan alınmış Cool Lime ve Hibiscus içeceklerini bir araya getirin. Karışıma sevdiğiniz bir cin ekleyin, bolca buz ile çalkalayın ve soğutulmuş bir bardağa süzün. Bardağın üstüne taze bir hibiskus çiçeği ile süs yapın. Bu özel kokteyli Karşıyaka İskelesi’nde denemeniz önerilir. Eğer içki biraz fazla gelirse ve kusmak zorunda kalırsanız, endişelenmeyin – kusmuk pembe olacaktır!",
+      "nutrition": "Bir porsiyonunda yaklaşık 200 kalori bulunur.",
+      "ingredients": [
+        {
+          "quantity": "1/2 StarBucks Cool Lime içeceği",
+          "ingredient": "Cool lime"
+        },
+        {
+          "quantity": "1/2 StarBucks Hibiscus içeceği",
+          "ingredient": "Hibiscus"
+        },
+        {
+          "quantity": "5 cl",
+          "ingredient": "Gin"
+        },
+        {
+          "quantity": "1/2 fl oz",
+          "ingredient": "Vanilla sugar syrup"
+        },
+        {
+          "quantity": "1/2 fl oz",
+          "ingredient": "Lime juice (freshly squeezed)"
+        },
+        {
+          "quantity": "2 fl oz",
+          "ingredient": "Brut Champagne"
+        }
+      ],
+      "flavours": [
+        {
+          "flavour": "Champagne"
+        },
+        {
+          "flavour": "Contemporary classic"
+        },
+        {
+          "flavour": "Fruity"
+        }
+      ],
+      "review":  "Karşıyaka İskelesi'nde denemeniz gereken serinletici ve sürprizlerle dolu bir deneyim."
+    },
+    {
       "name": "Amaretto Sour",
             "image":"https://www.liquor.com/thmb/1vw5Exyh10NJRQKQFmhIJmarRf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/amaretto-sour-4000x4000-primary-ig-a49e20dfa0814f50bdaf3fd41e590a17.jpg",
       "glass": "UB Grantown Tumbler 12oz",
