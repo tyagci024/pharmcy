@@ -2481,45 +2481,45 @@
 
     },
     {
-      "name": "Final Ward",
-              "image":"https://www.wickiwackiwoo.com/wp-content/uploads/2022/02/FINAL-WARD-665x435.jpg",
-      "glass": "Coupe glass",
-      "garnish": "Lemon zest twist",
-      "howto": "SHAKE all ingredients with ice and fine strain into chilled glass.",
-      "nutrition": "There are approximately 184 calories in one serving of Final Ward.",
-      "ingredients": [
-        {
-          "quantity": "3/4 fl oz",
-          "ingredient": "Straight bottled-in-bond rye whiskey"
-        },
-        {
-          "quantity": "3/4 fl oz",
-          "ingredient": "Green Chartreuse liqueur"
-        },
-        {
-          "quantity": "3/4 fl oz",
-          "ingredient": "Luxardo Maraschino liqueur"
-        },
-        {
-          "quantity": "3/4 fl oz",
-          "ingredient": "Lemon juice (freshly squeezed)"
-        }
-      ],
-      "flavours": [
-        {
-          "flavour": "Contemporary classic"
-        },
-        {
-          "flavour": "Spirit-forward"
-        }
-      ],
-      "times": [
-        {
-          "time": "Nightcap / sipping"
-        }
-      ],
-      "review": "Perhaps the best-know riff on the classic Last Word, it was created in 2007 by Phil Ward at Death & Co., New York City, USA.\nFor the full story behind the origins of the Last Word and its many variations see our Last Word page."
-    },
+    "name": "Final Ward",
+    "image": "https://www.wickiwackiwoo.com/wp-content/uploads/2022/02/FINAL-WARD-665x435.jpg",
+    "glass": "Coupe glass",
+    "garnish": "Lemon zest twist",
+    "howto": "SHAKE all ingredients with ice and fine strain into chilled glass.",
+    "nutrition": "There are approximately 184 calories in one serving of Final Ward.",
+    "ingredients": [
+      {
+        "quantity": "3/4 fl oz",
+        "ingredient": "Straight bottled-in-bond rye whiskey"
+      },
+      {
+        "quantity": "3/4 fl oz",
+        "ingredient": "Green Chartreuse liqueur"
+      },
+      {
+        "quantity": "3/4 fl oz",
+        "ingredient": "Luxardo Maraschino liqueur"
+      },
+      {
+        "quantity": "3/4 fl oz",
+        "ingredient": "Lemon juice (freshly squeezed)"
+      }
+    ],
+    "flavours": [
+      {
+        "flavour": "Contemporary classic"
+      },
+      {
+        "flavour": "Spirit-forward"
+      }
+    ],
+    "times": [
+      {
+        "time": "Nightcap / sipping"
+      }
+    ],
+    "review": "Perhaps the best-known riff on the classic Last Word, it was created in 2007 by Phil Ward at Death & Co., New York City, USA.\nFor the full story behind the origins of the Last Word and its many variations see our Last Word page."
+  },
     {
       "name": "Garibaldi",
               "image":"https://static01.nyt.com/images/2022/04/23/dining/15Brunchrex1/merlin_205050570_2371148b-1942-4bfc-ba85-5f8b274efa03-threeByTwoMediumAt2X.jpg?quality=75&auto=webp",
