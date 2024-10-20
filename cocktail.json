@@ -588,7 +588,7 @@
       "glass": "Coupe glass",
       "garnish": "Lemon zest twist",
       "howto": "SHAKE all ingredients with ice and strain back into shaker. DRY SHAKE (without ice) and fine strain into chilled glass.",
-      "nutrition": "Classic/vintage\nCitrusy",
+      "nutrition": "223 ",
       "ingredients": [
         {
           "quantity": "1 1/2 fl oz",
@@ -788,7 +788,7 @@
       "glass": "Old-fashioned glass",
       "garnish": "Lemon zest twist",
       "howto": "STIR all ingredients with ice and strain into ice-filled glass.",
-      "nutrition": "Walter Bergeron",
+      "nutrition": "225",
       "ingredients": [
         {
           "quantity": "1 fl oz",
@@ -1160,7 +1160,7 @@
       "glass": "Coupe glass",
       "garnish": "Lime twist (discarded) and Luxardo Maraschino cherry",
       "howto": "SHAKE all ingredients with ice and fine strain into chilled glass.",
-      "nutrition": "Classic/vintage",
+      "nutrition": "257",
       "ingredients": [
         {
           "quantity": "1 fl oz",
@@ -1185,7 +1185,7 @@
       ],
       "flavours": [
         {
-          "flavour": "Ted Saucier"
+          "flavour": "Classic/vintage"
         }
       ],
       "review": "Visit our Last Word cocktail page for the history and variants of this drink."
@@ -1206,7 +1206,18 @@
       "glass": "Double old-fashioned",
       "garnish": "Lime, mint sprig, pineapple cube & Luxardo Maraschino cherry",
       "howto": "SHAKE all ingredients with ice and strain into glass filled with crushed ice.",
-      "nutrition": "Classic/vintage\nTiki/tropical\nFruity",
+      "nutrition": "246",
+      "flavours": [
+        {
+          "flavour": "Classic/vintage"
+        },
+        {
+          "flavour": "Tiki"
+        },
+        {
+          "flavour": "Fruity"
+        }
+      ],
       "ingredients": [
         {
           "quantity": "2 fl oz",
@@ -1556,7 +1567,12 @@
       "glass": "Flute glass",
       "garnish": "Luxardo Maraschino cherry",
       "howto": "SHAKE first 3 ingredients with ice and strain into chilled glass. TOP with champagne.",
-      "nutrition": "Champagne",
+      "nutrition": "183",
+      "flavours": [
+        {
+          "flavour": "Champagne"
+        }
+      ],
       "ingredients": [
         {
           "quantity": "1 fl oz",
@@ -1941,7 +1957,7 @@
       "glass": "Old-fashioned glass",
       "garnish": "Pink grapefruit zest twist",
       "howto": "POUR all ingredients into ice-filled glass and STIR.",
-      "nutrition": "Modern",
+      "nutrition": "160",
       "ingredients": [
         {
           "quantity": "1 fl oz",
@@ -1958,7 +1974,10 @@
       ],
       "flavours": [
         {
-          "flavour": "Aperitivo / aperitif"
+          "flavour": "Aperitivo / aperitif",
+        },
+        {
+          "flavour": "Modern"
         }
       ]
     },
@@ -2246,7 +2265,7 @@
       "glass": "Coupe glass",
       "garnish": "Luxardo Maraschino cherry",
       "howto": "STIR all ingredients with ice and strain into chilled glass.",
-      "nutrition": "Classic/vintage",
+      "nutrition": "258",
       "ingredients": [
         {
           "quantity": "1 1/2 fl oz",
@@ -3092,7 +3111,7 @@
       "glass": "Coupe glass",
       "garnish": "Apricot wedge",
       "howto": "SHAKE all ingredients with ice and fine strain into chilled glass.",
-      "nutrition": "Classic/vintage\nFruity",
+      "nutrition": "150",
       "ingredients": [
         {
           "quantity": "3/4 fl oz",
@@ -3114,6 +3133,12 @@
       "flavours": [
         {
           "flavour": "Albert Stevens Crockett"
+        },
+        {
+          "flavour": "Fruity"
+        },
+        {
+          "flavour": "Classic/vintage"
         }
       ],
       "review": "Created and originally served at New York's old Waldorf-Astoria prior to 1920. This recipe is adapted from Albert Stevens Crockett's 1935 The Old Waldorf-Astoria Bar Book. The drink is named after Sir Charles Spencer 'Charlie' Chaplin (1889-1977), the English slapstick comic actor of the silent film era, who was at the height of his career when this eponymous cocktail was created."
@@ -3394,7 +3419,7 @@
       "glass": "Coupe glass",
       "garnish": "Lemon zest twist",
       "howto": "SHAKE all ingredients with ice and fine strain into chilled glass.",
-      "nutrition": "Classic/vintage",
+      "nutrition": "117",
       "ingredients": [
         {
           "quantity": "1 1/2 fl oz",
@@ -3505,7 +3530,12 @@
       "glass": "Coupe glass",
       "garnish": "Dust with freshly grated nutmeg",
       "howto": "SHAKE all ingredients with ice and strain back into shaker. DRY SHAKE (without ice) and fine strain into chilled glass.",
-      "nutrition": "Creamy",
+      "nutrition": "311",
+      "flavours": [
+        {
+          "flavour": "Creamy"
+        }
+      ],
       "ingredients": [
         {
           "quantity": "1 1/2 fl oz",
